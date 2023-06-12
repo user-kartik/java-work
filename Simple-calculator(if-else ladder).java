@@ -1,3 +1,4 @@
+// Using if else ladder the code is written for the simplecalculator 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
